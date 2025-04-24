@@ -22,11 +22,11 @@ Here are some ideas to get you started:
 </div>
 <br>
 
-I'm a self-taught coder who has been passionately diving into the world of technology.<br>
+I'm a self-taught coder who has been diving into modern technologies.<br>
 
 My preferred technologies are React, JavaScript, and Ruby on Rails, I have been engaging into new frontend frameworks like Next in my personal project(s). My professional career consists mostly of Ruby on Rails, and React.
 Have also been involved in frontend design tools like Tailwind and Bootstrap CSS.<br>
 
 🌱 Throughout my journey, I've been inspired by looking into design framework tools and the latest technologies around it.<br>
 Recently I have been looking into Next.js and applying it into personal projects.
-Have spending some personal hours exploring various frameworks and design tools. 
+Have spending some personal hours exploring various frameworks and design tools. <br>
