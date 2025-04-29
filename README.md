@@ -28,5 +28,5 @@ My preferred technologies are React, JavaScript, and Ruby on Rails, I have been 
 Have also been involved in frontend design tools like Tailwind and Bootstrap CSS.<br>
 
 🌱 Throughout my journey, I've been inspired by looking into design framework tools and the latest technologies around it.<br>
-Recently I have been looking into Next.js and applying it into personal projects.
-Have spending some personal hours exploring various frameworks and design tools. <br>
+Have been spending some personal hours exploring various frameworks and design tools. <br>
+Recently I have been looking into Next.js framework.
